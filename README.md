@@ -1,4 +1,4 @@
-# ts_analytics
+ts_analytics
 ===============
 
 This module contains implementation of basic time series analytic methods.
