@@ -8,7 +8,7 @@ Example usage
 
 Ref. to help for information on specific feature
 
-import ts_analytics as tsa
+import ts_analytics as tsa  
 help(tsa)  
-help(tsa.random_walk)
-help(tsa.dtw)
+help(tsa.random_walk)  
+help(tsa.dtw)  
